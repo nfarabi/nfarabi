@@ -1,6 +1,6 @@
 - 👋 Hi, I’m farabi
 - 👀 I’m interested in coding and learning new things.
-- 🌱 I’m currently learning different framworks and exploring opportunities.   
+- 🌱 I’m currently working on different framworks and exploring opportunities.   
 - 📫 plesase email me at nfarabi@gmail.com
 
 <!---
