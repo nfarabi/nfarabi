@@ -1,7 +1,8 @@
-- 👋 Hi, I’m farabi
-- 👀 I’m interested in coding and learning new things.
-- 🌱 I’m currently working on different framworks and exploring opportunities.   
-- 📫 plesase email me at nfarabi@gmail.com
+💻 Software Engineer | Python | Test Automation | AI Enthusiast
+
+🚀 Building reliable software through automation.
+🌱 Learning LLMs, DevOps, and Cloud.
+💡 Interested in AI, Software Engineering, and Open Source.  
 
 <!---
 nfarabi/nfarabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
